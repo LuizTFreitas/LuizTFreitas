@@ -4,7 +4,7 @@
 
   *  :brazil: I'm from Brazil.
   *  :world_map: Exploring new technologies and developing software solutions to our worlds tech problems.
-  *  👨‍🎓 Studying technologist in technology in internet systems at Instituto Federal do Estado de São Paulo.
+  *  👨‍🎓 Studying Technology in internet systems at Instituto Federal do Estado de São Paulo.
 
 
 
