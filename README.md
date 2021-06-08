@@ -24,7 +24,7 @@
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/80286396/121233698-446c4680-c869-11eb-8a5c-470c3fd48a4a.png)
 
 
-## Contact with me
+## <p align="center">Contact with me</p>
 
 [![Email_30017 (2)](https://user-images.githubusercontent.com/80286396/121236056-eab94b80-c86b-11eb-938e-d6cdb67ca762.png)](mailto:freitasow@gmail.com)
 [![sociallinkedin_member_2751 (2)](https://user-images.githubusercontent.com/80286396/121236059-eb51e200-c86b-11eb-9f27-7aa0769252e0.png)](https://www.linkedin.com/in/luiz-augusto-freitas-7a0b88208/)
