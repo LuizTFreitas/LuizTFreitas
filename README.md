@@ -33,5 +33,6 @@
 
 ## Contact with me
 
-[![Email_30017 (2)](https://user-images.githubusercontent.com/80286396/121236056-eab94b80-c86b-11eb-938e-d6cdb67ca762.png)](mailto:freitasow@gmail.com)
-[![sociallinkedin_member_2751 (2)](https://user-images.githubusercontent.com/80286396/121236059-eb51e200-c86b-11eb-9f27-7aa0769252e0.png)](https://www.linkedin.com/in/luiz-augusto-freitas-7a0b88208/)
+[![1492692368-7email_83536](https://user-images.githubusercontent.com/80286396/121246545-ac298e00-c877-11eb-9879-99e59454c8e1.png)](mailto:freitasow@gmail.com)
+[![linkedin_logo_square_icon_134016](https://user-images.githubusercontent.com/80286396/121246591-b6e42300-c877-11eb-9917-bb04a91cc0d1.png)](https://www.linkedin.com/in/luiz-augusto-freitas-7a0b88208/)
+[![whatsapp_icon-icons com_62756](https://user-images.githubusercontent.com/80286396/121246715-d54a1e80-c877-11eb-8c04-a875364c0a3d.png)](https://api.whatsapp.com/send?phone=5519994142662)
