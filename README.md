@@ -31,6 +31,16 @@
 &nbsp;
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizTFreitas&show_icons=true&theme=dark)
+&nbsp;
+
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizTFreitas&layout=compact)](https://github.com/LuizTFreitas/github-readme-stats)
+&nbsp;
+
+&nbsp;
+
+
 ## Contact with me
 
 [![1492692368-7email_83536](https://user-images.githubusercontent.com/80286396/121246545-ac298e00-c877-11eb-9879-99e59454c8e1.png)](mailto:freitasow@gmail.com)
