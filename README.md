@@ -1,11 +1,15 @@
-# Hello, I'm Luiz!
+# <p align="center">Hello, I'm Luiz :wave:</p>
 
 :computer: About Me
 
   *  :brazil: I'm from Brazil.
+  
   *  :world_map: Exploring new technologies and developing software solutions to our worlds tech problems.
+  
   *  👨‍🎓 Studying Technology in internet systems at Instituto Federal do Estado de São Paulo.
+&nbsp;
 
+&nbsp;
 
 
 **Languages and tools:**
@@ -22,6 +26,9 @@
 **Database:**
 
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/80286396/121233698-446c4680-c869-11eb-8a5c-470c3fd48a4a.png)
+&nbsp;
+
+&nbsp;
 
 
 ## <p align="center">Contact with me</p>
