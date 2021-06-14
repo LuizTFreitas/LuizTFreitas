@@ -1,5 +1,3 @@
-# <p align="center">Hello, I'm Luiz :wave:</p>
-
 ### :computer: About Me
 
   *  :brazil:
