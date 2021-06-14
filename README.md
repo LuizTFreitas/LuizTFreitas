@@ -2,7 +2,7 @@
 
 ### :computer: About Me
 
-  *  :brazil: I'm from Brazil.
+  *  :brazil:
   
   *  :world_map: Exploring new technologies and developing software solutions to our worlds tech problems.
   
