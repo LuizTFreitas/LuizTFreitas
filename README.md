@@ -13,7 +13,6 @@
 #### Languages and tools
 
 ![java_22523 (1)](https://user-images.githubusercontent.com/80286396/121232375-ec811000-c867-11eb-97fa-0543c83c7efe.png)
-![bootstrap_plain_wordmark_logo_icon_146620](https://user-images.githubusercontent.com/80286396/121232665-3538c900-c868-11eb-8bce-54ce5691af04.png)
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/80286396/121233302-e9d2ea80-c868-11eb-9b70-619d3b39b4a7.png)
 ![spring_logo_icon_144856](https://user-images.githubusercontent.com/80286396/121251828-ad5db980-c87d-11eb-8fca-36fff9b2f0dd.png)
 
